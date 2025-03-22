@@ -1,0 +1,19 @@
+{
+    "name": "phpallas/rowlayout",
+    "description": "RowLayout Component",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Phpallas\\RowLayout\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sina Kuhestani",
+            "email": "sinakuhestani@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
