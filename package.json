@@ -1,0 +1,34 @@
+{
+  "name": "phpallas-rowlayout",
+  "version": "1.0.0",
+  "description": "RowLayout Component for web projects",
+  "keywords": [
+    "row layout",
+    "RowLayout",
+    "phpallas"
+  ],
+  "home": "https://github.com/PHPallas/RowLayout",
+  "bugs": {
+    "url": "https://github.com/PHPallas/RowLayout/issues"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Sina Lujestani",
+    "url": "https://sinakuhestani.github.io",
+    "email": "sinakuhestani@gmail.com"
+  },
+  "contributors": [
+  ],
+  "repository": {
+    "url": "git+https://github.com/PHPallas/RowLayout.git",
+    "type": "git"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "gulp-cli": "^3.0.0",
+    "pug": "^3.0.3",
+    "gulp": "^5.0.0",
+    "gulp-pug": "^5.0.0"
+  }
+}
